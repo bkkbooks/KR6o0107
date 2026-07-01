@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0107/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 起信論疏筆削記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1848.xml
+    old_id: T44n1848
+hash: sha256:41f83aaf61bc8831a3cb58ccbe6420a100d289b0669cc2b1ac903a112512e05a

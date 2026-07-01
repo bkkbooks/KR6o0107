@@ -1,0 +1,266 @@
+canonical_identifier: bkk:krp/KR6o0107/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0107/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 起信論疏筆削記
+  identifiers:
+    krp: KR6o0107
+    cbeta: T44n1848
+    cbeta_old_id: T44n1848
+    authorityid: CA0000570
+    json_key: T1848
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1848.xml
+    old_id: T44n1848
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0107_000-T.yaml, hash: 'sha256:41f83aaf61bc8831a3cb58ccbe6420a100d289b0669cc2b1ac903a112512e05a'}
+  - {seq: 1, filename: KR6o0107_001-T.yaml, hash: 'sha256:17ea1c3bf1c1e82734a6be5fb130b56c29454e529e79420ea7d10ff17f700d79'}
+  - {seq: 2, filename: KR6o0107_002-T.yaml, hash: 'sha256:f775d410efebad94d3d35a90722df1ca0d01690841a461e3535c485d03757526'}
+  - {seq: 3, filename: KR6o0107_003-T.yaml, hash: 'sha256:a82bbaac56b6161c051923fd764ede0197b6fbc4bdeb3757fe92f446860ced8a'}
+  - {seq: 4, filename: KR6o0107_004-T.yaml, hash: 'sha256:cd2d51aaffaf6babab31ec580fd794ed434a99e4aaf149471ac3d0dfb68d354b'}
+  - {seq: 5, filename: KR6o0107_005-T.yaml, hash: 'sha256:4b403c0e27a20ca335b163860c230b049fb2b091308164ae1a80a16197233b32'}
+  - {seq: 6, filename: KR6o0107_006-T.yaml, hash: 'sha256:d2c0bf029890fa27a5cb5eeba48729447da450d4ada27898f50e6ab36903b98a'}
+  - {seq: 7, filename: KR6o0107_007-T.yaml, hash: 'sha256:987dbc3b1857ff48785699d97ebf092ccb31b0caebcc7b468a06e1ba85527bc0'}
+  - {seq: 8, filename: KR6o0107_008-T.yaml, hash: 'sha256:e7beadc0ce39c3a3469cfe2f5d8526efce231ed4fa070c4ef0a8ec1251d2aa53'}
+  - {seq: 9, filename: KR6o0107_009-T.yaml, hash: 'sha256:38813734900221da102268e869502d304051214ff715ca8453c890cf7e6a24cc'}
+  - {seq: 10, filename: KR6o0107_010-T.yaml, hash: 'sha256:90937e7911c21ac9de20c3cbadef3587060c8388234a39c84edfbab57c6203c8'}
+  - {seq: 11, filename: KR6o0107_011-T.yaml, hash: 'sha256:be6e88b90f12f36136862b3a466bf9a7d8d9e2332750f5c0a3a22aecbcea9e0a'}
+  - {seq: 12, filename: KR6o0107_012-T.yaml, hash: 'sha256:65965a7df37dfdf2ac8d25268f8aceb3d3e5f3c7fe424857199eced2d7dcf764'}
+  - {seq: 13, filename: KR6o0107_013-T.yaml, hash: 'sha256:5a5818698a9dd3406f04adb9a8976746049271b9e63d25660b307a602d9ef31e'}
+  - {seq: 14, filename: KR6o0107_014-T.yaml, hash: 'sha256:8a7ac4f77860abc86c159b38ce1411d2879ee0347211d3a8251051d3f72c72d0'}
+  - {seq: 15, filename: KR6o0107_015-T.yaml, hash: 'sha256:e48582334840c832e03addd0f5b7840ca7884dceac392428a737dde3395d8dec'}
+  - {seq: 16, filename: KR6o0107_016-T.yaml, hash: 'sha256:dcb1208c5ff50ef435463288f7c63cf07a616d97e07756e57f3b3e1333fe6984'}
+  - {seq: 17, filename: KR6o0107_017-T.yaml, hash: 'sha256:137971b976b8b51170040055ba17ad6b06bd8f7a94223a8f25fbd68d2d70fc1c'}
+  - {seq: 18, filename: KR6o0107_018-T.yaml, hash: 'sha256:eb02e39553db13b0530e2b44830ad1f93cf2ff4dc7981fd6e87f649aacfa4613'}
+  - {seq: 19, filename: KR6o0107_019-T.yaml, hash: 'sha256:bcff6e17473723c861013c1ed7166e9f700573580ccf627c0971f5edf0ee8d08'}
+  - {seq: 20, filename: KR6o0107_020-T.yaml, hash: 'sha256:561976a2cee22552cfd5b9c72c7d7191989d4a992a75a974713918b8a3127c9b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0107_000-T.markers.yaml, hash: 'sha256:7aaffcdfcbb438179aac714b70ffc0251770d6f508117468a56151308d361142'}
+  - {seq: 1, role: markers, filename: assets/KR6o0107_001-T.markers.yaml, hash: 'sha256:651f2929d7209ae2d2befa11ef9388cdeab01fa42e050d7f63e619cb579f035e'}
+  - {seq: 2, role: markers, filename: assets/KR6o0107_002-T.markers.yaml, hash: 'sha256:096beed1a057b3be3f78d9adf3ed978a29959170067aaf5d46005dbf41936414'}
+  - {seq: 3, role: markers, filename: assets/KR6o0107_003-T.markers.yaml, hash: 'sha256:e033af47cd48f23780b170c941a1cc6e2b2f336800d6a558b4825e7e6ad043bd'}
+  - {seq: 4, role: markers, filename: assets/KR6o0107_004-T.markers.yaml, hash: 'sha256:4ac85f996cf35aa3adeec9d4b99c0c43591e30cb4d5716de816b28fcf00cee97'}
+  - {seq: 5, role: markers, filename: assets/KR6o0107_005-T.markers.yaml, hash: 'sha256:72564f1ba58b31030751489e5bcb41b481cb445cc6d1c910417f0ca27d0250fe'}
+  - {seq: 6, role: markers, filename: assets/KR6o0107_006-T.markers.yaml, hash: 'sha256:bf57553baacdee3f2d5c5a41db77f6672058384af9be2caf561d8eac589e6df3'}
+  - {seq: 7, role: markers, filename: assets/KR6o0107_007-T.markers.yaml, hash: 'sha256:041b820bd7e57514639ddc05aff9934fb157bff4cedbda66922725cb23b4f4ea'}
+  - {seq: 8, role: markers, filename: assets/KR6o0107_008-T.markers.yaml, hash: 'sha256:be228fffcd762176a900df0deaa3a6bbb4c66750357324c728ebfd1f92c2b84b'}
+  - {seq: 9, role: markers, filename: assets/KR6o0107_009-T.markers.yaml, hash: 'sha256:67fa18624d70a3d57bab3cbaa97e0f02040cf8802849a19fa0e001b30e5f56e5'}
+  - {seq: 10, role: markers, filename: assets/KR6o0107_010-T.markers.yaml, hash: 'sha256:7fe12c205109660cb36e011ea21dc5217372ec16ff18afa5f47d68aad7879748'}
+  - {seq: 11, role: markers, filename: assets/KR6o0107_011-T.markers.yaml, hash: 'sha256:76298c7e66f6d8e7fd0543ae7b2193dea7ce5ef36f3db1529776f0c05181844b'}
+  - {seq: 12, role: markers, filename: assets/KR6o0107_012-T.markers.yaml, hash: 'sha256:11705eaaacbfd500ad1de09e7a4c1362cf37d4a757d2c48948389798b293b01c'}
+  - {seq: 13, role: markers, filename: assets/KR6o0107_013-T.markers.yaml, hash: 'sha256:8fc9869f83af38377e87bf5306fa428a1c3f305fee4e5ec2373927ea0e72634d'}
+  - {seq: 14, role: markers, filename: assets/KR6o0107_014-T.markers.yaml, hash: 'sha256:960033b644d48b009b6a5fc9ea8deae540bdb424f508a7f46d88c1889a09bd77'}
+  - {seq: 15, role: markers, filename: assets/KR6o0107_015-T.markers.yaml, hash: 'sha256:143dc73a9af20668c6eb49a6c6bc51bb49cc636270c68f6e46622f781ca1ae20'}
+  - {seq: 16, role: markers, filename: assets/KR6o0107_016-T.markers.yaml, hash: 'sha256:03b0e81bcfd7a89e1c7a74fe38a762810a186ba2d193c50ced9feacc850990d3'}
+  - {seq: 17, role: markers, filename: assets/KR6o0107_017-T.markers.yaml, hash: 'sha256:a90592ce7ae087321d7dd878f45291c21884afac7741d57c8a458c57c0a3dd61'}
+  - {seq: 18, role: markers, filename: assets/KR6o0107_018-T.markers.yaml, hash: 'sha256:16d9a274fd2eddd0618ed6cd441b6c54c77c82263f65d92b14efb206e3177a05'}
+  - {seq: 19, role: markers, filename: assets/KR6o0107_019-T.markers.yaml, hash: 'sha256:d79aace9275bbc39e31a1b27c53a13fda40149cca0f9da09ddc7519e794cc3f5'}
+  - {seq: 20, role: markers, filename: assets/KR6o0107_020-T.markers.yaml, hash: 'sha256:fa808b270d1665870c03c48ce0e72020fabead4ceff6034847372b3f45960488'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0107_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8676
+  label: 起信論疏筆削記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0107_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7740
+  label: 起信論疏筆削記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0107_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8395
+  label: 起信論疏筆削記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0107_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6979
+  label: 起信論疏筆削記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0107_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8513
+  label: 起信論疏筆削記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6o0107_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8432
+  label: 起信論疏筆削記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6o0107_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7324
+  label: 起信論疏筆削記卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6o0107_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7800
+  label: 起信論疏筆削記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0107_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7897
+  label: 起信論疏筆削記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0107_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7132
+  label: 起信論疏筆削記卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6o0107_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 7895
+  label: 起信論疏筆削記卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6o0107_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 7246
+  label: 起信論疏筆削記卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6o0107_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 8097
+  label: 起信論疏筆削記卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6o0107_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 8419
+  label: 起信論疏筆削記卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6o0107_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 7819
+  label: 起信論疏筆削記卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6o0107_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 8209
+  label: 起信論疏筆削記卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6o0107_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 7634
+  label: 起信論疏筆削記卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6o0107_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 7140
+  label: 起信論疏筆削記卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6o0107_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 8117
+  label: 起信論疏筆削記卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6o0107_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 8077
+  label: 起信論疏筆削記卷第二十
+  type: juan
+  level: 1
+hash: sha256:a76639b09d33b68070c107cac0a34491a17ac330ac704ecfd8f73c8fe6d19e60
